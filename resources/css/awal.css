@@ -1,0 +1,1843 @@
+.halaman-awal-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .halaman-awal-halaman-awal {
+    width: 100%;
+    height: 1310px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(241, 245, 249, 1);
+  }
+  .halaman-awal-topbar {
+    top: 0px;
+    left: 268px;
+    width: 1392px;
+    height: 80px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .halaman-awal-group1000003655 {
+    top: 0px;
+    left: 0px;
+    width: 1392px;
+    height: 80px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .halaman-awal-group1000003727 {
+    top: 17px;
+    left: 75.65217590332031px;
+    width: 1286.0870361328125px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-group1000003658 {
+    top: 13px;
+    left: 0px;
+    width: 85px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-text {
+    color: var(--dl-color-default-tailgridstextcolor);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-group1000003675 {
+    top: 0px;
+    left: 981.4608764648438px;
+    width: 304.6260986328125px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-group1000004096 {
+    top: 0px;
+    left: 139.03475952148438px;
+    width: 165.59130859375px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-group1000003666 {
+    top: 0px;
+    left: 88.930419921875px;
+    width: 76.660888671875px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-group1000003672 {
+    top: 0px;
+    left: 0px;
+    width: 46.4000244140625px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-ellipse2824 {
+    top: 0px;
+    left: 0px;
+    width: 46px;
+    height: 46px;
+    position: absolute;
+  }
+  .halaman-awal-chevrondown21 {
+    top: 13px;
+    left: 56.486934661865234px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+  }
+  .halaman-awal-group1000003674 {
+    top: 6px;
+    left: 0px;
+    width: 73.22607421875px;
+    height: 35px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-text002 {
+    color: var(--dl-color-default-tailgridsblackcolor);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: right;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text004 {
+    top: 21px;
+    left: 36.226070404052734px;
+    color: var(--dl-color-default-tailgridstextcolor);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: right;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 14px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-group1000004095 {
+    top: 6px;
+    left: 0px;
+    width: 83.7218017578125px;
+    height: 34px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-group1000004098 {
+    top: 0px;
+    left: 49.42612075805664px;
+    width: 34.295654296875px;
+    height: 34px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-ellipse2837 {
+    top: 0px;
+    left: 0px;
+    width: 34px;
+    height: 34px;
+    position: absolute;
+    border-color: rgba(226, 232, 240, 1);
+    border-style: solid;
+    border-width: 0.5px;
+  }
+  .halaman-awal-chatalt8 {
+    top: 9px;
+    left: 8.0694580078125px;
+    width: 18.1566162109375px;
+    height: 18px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .halaman-awal-group {
+    top: 1.5749999284744263px;
+    left: 0.5106548070907593px;
+    width: 17.163677215576172px;
+    height: 14.82187557220459px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-vector {
+    top: 0px;
+    left: 0px;
+    width: 17px;
+    height: 15px;
+    position: absolute;
+  }
+  .halaman-awal-vector01 {
+    top: 5.709374904632568px;
+    left: 4.312196254730225px;
+    width: 1px;
+    height: 1px;
+    position: absolute;
+  }
+  .halaman-awal-vector02 {
+    top: 5.709374904632568px;
+    left: 7.915150165557861px;
+    width: 1px;
+    height: 1px;
+    position: absolute;
+  }
+  .halaman-awal-vector03 {
+    top: 5.709374904632568px;
+    left: 11.518104553222656px;
+    width: 1px;
+    height: 1px;
+    position: absolute;
+  }
+  .halaman-awal-ellipse28241 {
+    top: 0px;
+    left: 23.199951171875px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 2px;
+  }
+  .halaman-awal-group1000004097 {
+    top: 0px;
+    left: 0px;
+    width: 34.295654296875px;
+    height: 34px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-ellipse2838 {
+    top: 0px;
+    left: 0px;
+    width: 34px;
+    height: 34px;
+    position: absolute;
+    border-color: rgba(226, 232, 240, 1);
+    border-style: solid;
+    border-width: 0.5px;
+  }
+  .halaman-awal-alarm {
+    top: 8px;
+    left: 8.06955337524414px;
+    width: 18px;
+    height: 18px;
+    position: absolute;
+  }
+  .halaman-awal-frame1000003551 {
+    gap: 8px;
+    top: 202px;
+    left: 308px;
+    width: 197px;
+    display: flex;
+    padding: 9px 15px;
+    position: absolute;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05000000074505806);
+    align-items: center;
+    border-color: rgba(226, 232, 240, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .halaman-awal-calendar {
+    width: 18px;
+    height: 18px;
+  }
+  .halaman-awal-text006 {
+    color: var(--dl-color-default-textcolor);
+    height: auto;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-frame1000003552 {
+    gap: 8px;
+    top: 202px;
+    left: 1506px;
+    width: 87px;
+    display: flex;
+    padding: 9px 15px;
+    position: absolute;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+    align-items: center;
+    border-color: rgba(226, 232, 240, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .halaman-awal-text008 {
+    color: var(--dl-color-default-textcolor);
+    height: auto;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-chevrondown {
+    width: 18px;
+    height: 18px;
+  }
+  .halaman-awal-group1000004090 {
+    top: 835px;
+    left: 308px;
+    width: 582px;
+    height: 372px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .halaman-awal-group1000004088 {
+    top: 30px;
+    left: 30px;
+    width: 522px;
+    height: 312px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-text010 {
+    color: var(--dl-color-default-tailgridsblackcolor);
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 700;
+    line-height: 28px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-iconmorealt {
+    top: 0px;
+    left: 506px;
+    width: 16px;
+    height: 16px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .halaman-awal-group1 {
+    top: 6px;
+    left: 0px;
+    width: 16px;
+    height: 4px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-vector04 {
+    top: 0px;
+    left: 0px;
+    width: 4px;
+    height: 4px;
+    position: absolute;
+  }
+  .halaman-awal-vector05 {
+    top: 0px;
+    left: 6px;
+    width: 4px;
+    height: 4px;
+    position: absolute;
+  }
+  .halaman-awal-vector06 {
+    top: 0px;
+    left: 12px;
+    width: 4px;
+    height: 4px;
+    position: absolute;
+  }
+  .halaman-awal-group1000004083 {
+    top: 90px;
+    left: 0px;
+    width: 522px;
+    height: 38px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-rectangle5115 {
+    top: 0px;
+    left: 0px;
+    width: 414px;
+    height: 38px;
+    position: absolute;
+    border-radius: 4px;
+  }
+  .halaman-awal-text012 {
+    top: 8px;
+    left: 14px;
+    color: var(--dl-color-default-dark);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text014 {
+    top: 8px;
+    left: 379px;
+    color: var(--dl-color-default-dark);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: right;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text016 {
+    top: 8px;
+    left: 458px;
+    color: var(--dl-color-default-dark);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: right;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-group1000004084 {
+    top: 136px;
+    left: 0px;
+    width: 522px;
+    height: 38px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-rectangle51151 {
+    top: 0px;
+    left: 0px;
+    width: 356px;
+    height: 38px;
+    position: absolute;
+    border-radius: 4px;
+  }
+  .halaman-awal-text018 {
+    top: 8px;
+    left: 14px;
+    color: var(--dl-color-default-dark);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text020 {
+    top: 8px;
+    left: 386px;
+    color: var(--dl-color-default-dark);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: right;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text022 {
+    top: 8px;
+    left: 458px;
+    color: var(--dl-color-default-dark);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: right;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-group1000004085 {
+    top: 182px;
+    left: 0px;
+    width: 522px;
+    height: 38px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-rectangle51152 {
+    top: 0px;
+    left: 0px;
+    width: 319px;
+    height: 38px;
+    position: absolute;
+    border-radius: 4px;
+  }
+  .halaman-awal-text024 {
+    top: 8px;
+    left: 14px;
+    color: var(--dl-color-default-dark);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text026 {
+    top: 8px;
+    left: 385px;
+    color: var(--dl-color-default-dark);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: right;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text028 {
+    top: 8px;
+    left: 458px;
+    color: var(--dl-color-default-dark);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: right;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-group1000004086 {
+    top: 228px;
+    left: 0px;
+    width: 522px;
+    height: 38px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-rectangle51153 {
+    top: 0px;
+    left: 0px;
+    width: 265px;
+    height: 38px;
+    position: absolute;
+    border-radius: 4px;
+  }
+  .halaman-awal-text030 {
+    top: 8px;
+    left: 14px;
+    color: var(--dl-color-default-dark);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text032 {
+    top: 8px;
+    left: 386px;
+    color: var(--dl-color-default-dark);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: right;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text034 {
+    top: 8px;
+    left: 458px;
+    color: var(--dl-color-default-dark);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: right;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-group1000004087 {
+    top: 274px;
+    left: 0px;
+    width: 522px;
+    height: 38px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-rectangle51154 {
+    top: 0px;
+    left: 0px;
+    width: 226px;
+    height: 38px;
+    position: absolute;
+    border-radius: 4px;
+  }
+  .halaman-awal-text036 {
+    top: 8px;
+    left: 14px;
+    color: var(--dl-color-default-dark);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text038 {
+    top: 8px;
+    left: 386px;
+    color: var(--dl-color-default-dark);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: right;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text040 {
+    top: 8px;
+    left: 458px;
+    color: var(--dl-color-default-dark);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: right;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-group1000004091 {
+    top: 54px;
+    left: 0px;
+    width: 522px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-text042 {
+    color: var(--dl-color-default-textcolor);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text044 {
+    left: 374px;
+    color: var(--dl-color-default-textcolor);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text046 {
+    left: 471px;
+    color: var(--dl-color-default-textcolor);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: right;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-group1000003393 {
+    top: 261px;
+    left: 308px;
+    width: 1285px;
+    height: 542px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-group1000003382 {
+    top: 0px;
+    left: 0px;
+    width: 1285px;
+    height: 542px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-rectangle4975 {
+    top: 0px;
+    left: 0px;
+    width: 1285px;
+    height: 542px;
+    position: absolute;
+    box-shadow: 0px 8px 13px -3px rgba(0, 0, 0, 0.07000000029802322) ;
+  }
+  .halaman-awal-line3 {
+    top: 136px;
+    left: 1.7872045040130615px;
+    width: 1281px;
+    height: 1px;
+    position: absolute;
+  }
+  .halaman-awal-line7 {
+    top: 76px;
+    left: 1.7872045040130615px;
+    width: 1281px;
+    height: 1px;
+    position: absolute;
+  }
+  .halaman-awal-text048 {
+    top: 94px;
+    left: 503.9916687011719px;
+    color: var(--dl-color-default-textcolor);
+    width: 105px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text050 {
+    top: 94px;
+    left: 723.8178100585938px;
+    color: var(--dl-color-default-textcolor);
+    width: 61px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text052 {
+    top: 94px;
+    left: 884.6661987304688px;
+    color: var(--dl-color-default-textcolor);
+    width: 54px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text054 {
+    top: 94px;
+    left: 1065.173828125px;
+    color: var(--dl-color-default-textcolor);
+    width: 68px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-line5 {
+    top: 222px;
+    left: 1.7872045040130615px;
+    width: 1281px;
+    height: 1px;
+    position: absolute;
+  }
+  .halaman-awal-product01 {
+    top: 154px;
+    left: 53.61613464355469px;
+    width: 107px;
+    height: 50px;
+    position: absolute;
+    border-radius: 5px;
+  }
+  .halaman-awal-text056 {
+    top: 168px;
+    left: 189.44366455078125px;
+    color: var(--dl-color-default-dark);
+    width: 213px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text058 {
+    top: 168px;
+    left: 503.9916687011719px;
+    color: var(--dl-color-default-dark);
+    width: 114px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text060 {
+    top: 168px;
+    left: 723.8178100585938px;
+    color: var(--dl-color-default-dark);
+    width: 50px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text062 {
+    top: 168px;
+    left: 885px;
+    color: var(--dl-color-default-dark);
+    width: 78px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text064 {
+    top: 168px;
+    left: 1065.173828125px;
+    color: var(--dl-color-default-green);
+    width: 38px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-line6 {
+    top: 305px;
+    left: 1.7872045040130615px;
+    width: 1281px;
+    height: 1px;
+    position: absolute;
+  }
+  .halaman-awal-product02 {
+    top: 237px;
+    left: 53.61613464355469px;
+    width: 107px;
+    height: 50px;
+    position: absolute;
+    border-radius: 5px;
+  }
+  .halaman-awal-text066 {
+    top: 251px;
+    left: 189.44366455078125px;
+    color: var(--dl-color-default-dark);
+    width: 170px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text068 {
+    top: 251px;
+    left: 503.9916687011719px;
+    color: var(--dl-color-default-dark);
+    width: 114px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text070 {
+    top: 251px;
+    left: 723.8178100585938px;
+    color: var(--dl-color-default-dark);
+    width: 50px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text072 {
+    top: 251px;
+    left: 885px;
+    color: var(--dl-color-default-dark);
+    width: 78px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text074 {
+    top: 251px;
+    left: 1065.173828125px;
+    color: var(--dl-color-default-green);
+    width: 46px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-line4 {
+    top: 388px;
+    left: 1.7872045040130615px;
+    width: 1281px;
+    height: 1px;
+    position: absolute;
+  }
+  .halaman-awal-product03 {
+    top: 320px;
+    left: 53.61613464355469px;
+    width: 107px;
+    height: 50px;
+    position: absolute;
+    border-radius: 5px;
+  }
+  .halaman-awal-text076 {
+    top: 334px;
+    left: 189.44366455078125px;
+    color: var(--dl-color-default-dark);
+    width: 163px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text078 {
+    top: 334px;
+    left: 503.9916687011719px;
+    color: var(--dl-color-default-dark);
+    width: 114px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text080 {
+    top: 334px;
+    left: 723.8178100585938px;
+    color: var(--dl-color-default-dark);
+    width: 50px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text082 {
+    top: 334px;
+    left: 885px;
+    color: var(--dl-color-default-dark);
+    width: 78px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text084 {
+    top: 334px;
+    left: 1065.173828125px;
+    color: var(--dl-color-default-green);
+    width: 48px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-product04 {
+    top: 403px;
+    left: 53.61613464355469px;
+    width: 107px;
+    height: 50px;
+    position: absolute;
+    border-radius: 5px;
+  }
+  .halaman-awal-text086 {
+    top: 417px;
+    left: 189.44366455078125px;
+    color: var(--dl-color-default-dark);
+    width: 164px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text088 {
+    top: 417px;
+    left: 503.9916687011719px;
+    color: var(--dl-color-default-dark);
+    width: 114px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text090 {
+    top: 417px;
+    left: 723.8178100585938px;
+    color: var(--dl-color-default-dark);
+    width: 52px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text092 {
+    top: 417px;
+    left: 885px;
+    color: var(--dl-color-default-dark);
+    width: 78px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text094 {
+    top: 417px;
+    left: 1065.173828125px;
+    color: var(--dl-color-default-green);
+    width: 50px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text096 {
+    top: 94px;
+    left: 53.61613464355469px;
+    color: var(--dl-color-default-textcolor);
+    width: 168px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text098 {
+    top: 25px;
+    left: 62.552154541015625px;
+    color: var(--dl-color-default-tailgridsblackcolor);
+    width: 223px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 700;
+    line-height: 28px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-group1000004107 {
+    top: 835px;
+    left: 907px;
+    width: 320px;
+    height: 362px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .halaman-awal-text100 {
+    top: 12px;
+    left: 18px;
+    color: var(--dl-color-default-darktextcolor2);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-rectangle5122 {
+    top: 158px;
+    left: 1px;
+    width: 318px;
+    height: 91px;
+    position: absolute;
+  }
+  .halaman-awal-line627 {
+    top: 46px;
+    left: 0px;
+    width: 320px;
+    height: 1px;
+    position: absolute;
+  }
+  .halaman-awal-frame1000004105 {
+    gap: 12px;
+    top: 58px;
+    left: 0px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    flex-direction: column;
+  }
+  .halaman-awal-frame1000004104 {
+    gap: 10px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .halaman-awal-text102 {
+    color: rgba(25, 54, 134, 1);
+    width: 284px;
+    height: auto;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text103 {
+    color: var(--dl-color-default-dark);
+  }
+  .halaman-awal-text105 {
+    color: var(--dl-color-default-textcolor);
+    width: 199px;
+    height: auto;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-line628 {
+    width: 320px;
+    height: 1px;
+  }
+  .halaman-awal-frame10000041041 {
+    gap: 10px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .halaman-awal-text107 {
+    color: rgba(25, 54, 134, 1);
+    width: 284px;
+    height: auto;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text108 {
+    color: var(--dl-color-default-dark);
+  }
+  .halaman-awal-text110 {
+    color: var(--dl-color-default-textcolor);
+    width: 199px;
+    height: auto;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-line6281 {
+    width: 320px;
+    height: 1px;
+  }
+  .halaman-awal-frame10000041042 {
+    gap: 10px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .halaman-awal-text112 {
+    color: rgba(25, 54, 134, 1);
+    width: 284px;
+    height: auto;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 22px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text113 {
+    color: var(--dl-color-default-dark);
+  }
+  .halaman-awal-text115 {
+    color: var(--dl-color-default-textcolor);
+    width: 199px;
+    height: auto;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-sidebar-alllayout {
+    top: -7px;
+    left: -7px;
+    width: 275px;
+    height: 1308px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-rectangle5133 {
+    top: 0px;
+    left: 0px;
+    width: 275px;
+    height: 1308px;
+    position: absolute;
+  }
+  .halaman-awal-group1000004154 {
+    top: 16px;
+    left: 32px;
+    width: 230px;
+    height: 48px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-logo {
+    top: 0px;
+    left: 0px;
+    width: 230px;
+    height: 48px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-logo-tnde-internal {
+    top: 0px;
+    left: 0px;
+    width: 230px;
+    height: 48px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(28, 36, 52, 1);
+  }
+  .halaman-awal-text117 {
+    top: 15.359894752502441px;
+    left: 65px;
+    color: rgba(255, 255, 255, 1);
+    width: 153px;
+    height: auto;
+    position: absolute;
+    font-size: 25px;
+    font-style: Regular;
+    text-align: left;
+    font-family: PT Serif;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-frame1000004176 {
+    top: 163px;
+    left: 33px;
+    width: 230px;
+    height: 54.077518463134766px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .halaman-awal-box-profile {
+    top: 0px;
+    left: 0px;
+    width: 230px;
+    height: 96px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-frame1000004090 {
+    gap: 10px;
+    top: 0px;
+    left: 0px;
+    width: 230px;
+    display: flex;
+    padding: 8px 12px 8px 15px;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 3px;
+    justify-content: space-between;
+    background-color: var(--dl-color-default-dark);
+  }
+  .halaman-awal-frame1000003557 {
+    gap: 10px;
+    display: flex;
+    align-items: center;
+  }
+  .halaman-awal-enter {
+    width: 18px;
+    height: 18px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .halaman-awal-useralt4 {
+    top: 0px;
+    left: 0px;
+    width: 18px;
+    height: 18px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .halaman-awal-group2 {
+    top: 0.47812503576278687px;
+    left: 1.7156249284744263px;
+    width: 14.653124809265137px;
+    height: 17.04374885559082px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-vector07 {
+    top: -2.9802322387695312e-8px;
+    left: 3.515624761581421px;
+    width: 8px;
+    height: 7px;
+    position: absolute;
+  }
+  .halaman-awal-vector08 {
+    top: 8.578125px;
+    left: 0px;
+    width: 15px;
+    height: 8px;
+    position: absolute;
+  }
+  .halaman-awal-text119 {
+    color: var(--dl-color-default-darktextcolor1);
+    height: auto;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-chevrondown1 {
+    width: 20px;
+    height: 20px;
+  }
+  .halaman-awal-boxprofile1 {
+    top: 37px;
+    left: 0px;
+    width: 230px;
+    height: 59px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(241, 245, 249, 1);
+  }
+  .halaman-awal-text121 {
+    top: 7px;
+    left: 43px;
+    color: var(--dl-color-default-darktextcolor2);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text123 {
+    top: 29px;
+    left: 43px;
+    color: rgba(234, 215, 48, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-frame10000035571 {
+    gap: 10px;
+    top: 106px;
+    left: 47px;
+    height: 13.519379615783691px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .halaman-awal-page {
+    width: 18px;
+    height: 18px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .halaman-awal-group3 {
+    top: 0.5062499642372131px;
+    left: 1.96875px;
+    width: 14.118751525878906px;
+    height: 17.015625px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-vector09 {
+    top: 0px;
+    left: 0px;
+    width: 14px;
+    height: 17px;
+    position: absolute;
+  }
+  .halaman-awal-vector10 {
+    top: 2.109375px;
+    left: 6.83437442779541px;
+    width: 5px;
+    height: 6px;
+    position: absolute;
+  }
+  .halaman-awal-vector11 {
+    top: 2.5875000953674316px;
+    left: 2.3343753814697266px;
+    width: 3px;
+    height: 1px;
+    position: absolute;
+  }
+  .halaman-awal-vector12 {
+    top: 6.131250381469727px;
+    left: 2.3343753814697266px;
+    width: 3px;
+    height: 1px;
+    position: absolute;
+  }
+  .halaman-awal-vector13 {
+    top: 9.731250762939453px;
+    left: 2.362499713897705px;
+    width: 9px;
+    height: 1px;
+    position: absolute;
+  }
+  .halaman-awal-vector14 {
+    top: 13.30312442779541px;
+    left: 2.362499713897705px;
+    width: 9px;
+    height: 1px;
+    position: absolute;
+  }
+  .halaman-awal-text125 {
+    color: var(--dl-color-default-darktextcolor1);
+    height: auto;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-frame10000035572 {
+    gap: 10px;
+    top: 135px;
+    left: 49px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+  }
+  .halaman-awal-listalt {
+    width: 18px;
+    height: 18px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .halaman-awal-group4 {
+    top: 0.984375px;
+    left: 0.47812503576278687px;
+    width: 17.043750762939453px;
+    height: 16.05937385559082px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .halaman-awal-vector15 {
+    top: 0px;
+    left: 0px;
+    width: 4px;
+    height: 4px;
+    position: absolute;
+  }
+  .halaman-awal-vector16 {
+    top: 1.4343750476837158px;
+    left: 6.103124618530273px;
+    width: 11px;
+    height: 1px;
+    position: absolute;
+  }
+  .halaman-awal-vector17 {
+    top: 5.765625px;
+    left: -2.9802322387695312e-8px;
+    width: 4px;
+    height: 4px;
+    position: absolute;
+  }
+  .halaman-awal-vector18 {
+    top: 7.22812557220459px;
+    left: 6.103124618530273px;
+    width: 11px;
+    height: 1px;
+    position: absolute;
+  }
+  .halaman-awal-vector19 {
+    top: 11.86875057220459px;
+    left: -2.9802322387695312e-8px;
+    width: 4px;
+    height: 4px;
+    position: absolute;
+  }
+  .halaman-awal-vector20 {
+    top: 13.30312442779541px;
+    left: 6.103124618530273px;
+    width: 11px;
+    height: 1px;
+    position: absolute;
+  }
+  .halaman-awal-text127 {
+    color: var(--dl-color-default-darktextcolor1);
+    height: auto;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .halaman-awal-text129 {
+    top: 124px;
+    left: 726px;
+    color: rgba(0, 0, 0, 1);
+    width: 363px;
+    height: auto;
+    position: absolute;
+    font-size: 80px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
